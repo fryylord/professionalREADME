@@ -150,7 +150,7 @@ async function init() {
         const userAnswers = await questions();
         console.log("Your responses: ", userAnswers);
         const createReadme = generateMarkdown(userAnswers);
-        await writeFileAsync('./README.md', createReadme);
+        await writeFileAsync('./output/README.md', createReadme);
         }
         catch(err) {
             console.log(err);

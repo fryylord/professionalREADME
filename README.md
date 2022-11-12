@@ -1,3 +1,59 @@
-# Professional README Generator Starter Code
+# Professional README Generator
+# Solution for Module 7 Challenge
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+This script has been created as a command line based tool for creating a README.md file.  It takes in user input and formats it using conventions expected in a professional README file.  Upon completion the information gathered is displayed, and a new file is created.   
+
+
+![](./assets/images/Screenshot.jpg)
+[Link to Page](https://fryylord.github.io/professionalREADME/)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+All you need is the index.html file, allong with the directory assets.  These should be in the parent repository directory, with assets being a child directly within the parent.
+
+## Usage
+
+To allow the user to enter in a desired city, get current weather information, as well as a 5 day forcast.  Searches are saved to allow for revisiting previously searched cities.       
+
+## Credits
+
+https://ku.bootcampcontent.com/ku-coding-boot-camp/KU-VIRT-FSF-PT-09-2022-U-LOLC/  
+
+
+## License
+ 
+MIT License
+
+Copyright (c) 2022 fryylord
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Features
+
+
+
+## Tests
+
+None
+
