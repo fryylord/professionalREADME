@@ -35,7 +35,7 @@ function generateMarkdown(userAnswers) {
   ## Usage
   ${userAnswers.use}
   
-  ## Credits
+  ## Contributing
   ${userAnswers.credits}
   
   ## License
@@ -48,7 +48,7 @@ function generateMarkdown(userAnswers) {
   ## Tests
   ${userAnswers.tests}
 
-  ## Contact
+  ## Questions
   ${userAnswers.contactInfo}  
 
   Find me on GitHub: [${userAnswers.gitName}](https://github.com/${userAnswers.gitName})  
