@@ -3,6 +3,7 @@
 function renderLicenseBadge(userAnswers) {return `
 ![badge](https://img.shields.io/badge/license-${userAnswers.license}-blue)`}
 
+
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {}
@@ -14,6 +15,7 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(userAnswers) {
   return `
+  ${renderLicenseBadge(userAnswers)}
   # ${userAnswers.projectTitle}
 
   ## Description  
@@ -40,8 +42,7 @@ function generateMarkdown(userAnswers) {
   
   ## License
   ${userAnswers.license},
-  ${renderLicenseBadge(userAnswers)}
-  
+
   ## Features
   ${userAnswers.features}
   
