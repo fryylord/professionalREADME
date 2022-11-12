@@ -1,10 +1,10 @@
 
   
-![badge](https://img.shields.io/badge/license-GNU-blue)
-  # title
+![badge](https://img.shields.io/badge/license-Mozilla-blue)
+  # a
 
   ## Description  
-  describe
+  b
   
   ## Contents
   - [Description](#description)
@@ -17,27 +17,27 @@
   - [Contact](#contact)
   
   ## Installation
-  install
+  c
   
   ## Usage
-  how is it used
+  d
   
   ## Contributing
-  nobody
+  e
   
   ## License
-  GNU,  
-  [Click for more Information](https://opensource.org/licenses/Apache-2.0)
+  Mozilla License  
+  [Click for more Information](https://choosealicense.com/licenses/mpl-2.0/)
 
   ## Features
-  alkjfsd
+  f
   
   ## Tests
-  adksljf
+  g
 
   ## Questions
-  lkadfsj  
+  h  
 
-  Find me on GitHub: [adfklsj](https://github.com/adfklsj)  
+  Find me on GitHub: [i](https://github.com/i)  
 
-  E-mail me : alksdfj
+  E-mail me : j

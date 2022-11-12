@@ -1,30 +1,29 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Function that returns a license badge based on which license is passed in
+
 function renderLicenseBadge(userAnswers) {return `
 ![badge](https://img.shields.io/badge/license-${userAnswers.license}-blue)`}
 
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// Function that returns the license link
 function renderLicenseLink(userAnswers) {
   let licenseType = userAnswers.license;
   let yourLicense = ''
   if(licenseType === 'Apache') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/Apache-2.0)`
+    yourLicense = `[Click for more Information](https://choosealicense.com/licenses/apache-2.0/)`
   } else if (licenseType === 'Academic') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/AFL-3.0)`
+    yourLicense = `[Click for more Information](https://opensource.org/licenses/AFL-3.0)`
   } else if (licenseType === 'GNU') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/GPL-3.0)`
+    yourLicense = `[Click for more Information](https://choosealicense.com/licenses/lgpl-3.0/)`
   } else if (licenseType === 'ISC') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/ISC)`
+    yourLicense = `[Click for more Information](https://opensource.org/licenses/ISC)`
   } else if (licenseType === 'MIT') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/MIT)`
+    yourLicense = `[Click for more Information](https://choosealicense.com/licenses/mit/)`
   } else if (licenseType === 'Mozilla') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/MPL-2.0)`
+    yourLicense = `[Click for more Information](https://choosealicense.com/licenses/mpl-2.0/)`
   } else if (licenseType === 'Open') {
-    yourLicense = `![Click for more Information](https://opensource.org/licenses/OSL-3.0)`
+    yourLicense = `[Click for more Information](https://opensource.org/licenses/OSL-3.0)`
   } else {
-    license.license = "N/A"
+    yourLicense = ''
   }
   return yourLicense;
 }
@@ -33,7 +32,7 @@ function renderLicenseLink(userAnswers) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {}
 
-// TODO: Create a function to generate markdown for README
+// Function to generate markdown for README
 function generateMarkdown(userAnswers) {
   return `
   ${renderLicenseBadge(userAnswers)}
@@ -62,7 +61,7 @@ function generateMarkdown(userAnswers) {
   ${userAnswers.credits}
   
   ## License
-  ${userAnswers.license},  
+  ${userAnswers.license} License  
   ${renderLicenseLink(userAnswers)}
 
   ## Features
