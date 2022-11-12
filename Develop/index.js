@@ -27,6 +27,11 @@ const answers = function() {
             message: "How is thise site used?"
         },
         {
+            type: "input",
+            name: "credits",
+            message: "Who else should be credited on this site?"
+        },
+        {
             type: "list",
             name: "license",
             message: "Chose the appropriate license for this project: ",
@@ -40,10 +45,9 @@ const answers = function() {
                 "Open"
             ]
         },
-        {
-            type: "input",
-            name: "credits",
-            message: "Who else should be credited on this site?"
+        {   type: "input",
+            name: "features",
+            message: "What are some features of your site?"
         },
         {
             type: "input",
@@ -57,7 +61,7 @@ const answers = function() {
         },
         {
             type: "input",
-            name: "username",
+            name: "gitName",
             message: "Please enter your GitHub username: "
         },
         {
