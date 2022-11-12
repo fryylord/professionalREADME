@@ -1,8 +1,10 @@
 
-  # oiaewjruoiweurioaweu
+  
+![badge](https://img.shields.io/badge/license-GNU-blue)
+  # title
 
   ## Description  
-  aweroiuweoiruaoweurawioeu
+  describe
   
   ## Contents
   - [Description](#description)
@@ -15,28 +17,27 @@
   - [Contact](#contact)
   
   ## Installation
-  aoewirujioaweurioawuer
+  install
   
   ## Usage
-  aeiouroiuaeriou
+  how is it used
   
-  ## Credits
-  aioewruaoiweuriawe
+  ## Contributing
+  nobody
   
   ## License
-  Academic,
-  
-![badge](https://img.shields.io/badge/license-Academic-blue)
-  
+  GNU,  
+  [Click for more Information](https://opensource.org/licenses/Apache-2.0)
+
   ## Features
-  ioewariewu
+  alkjfsd
   
   ## Tests
-  aiowerujaoiweu
+  adksljf
 
-  ## Contact
-  aeirwoujoiweru  
+  ## Questions
+  lkadfsj  
 
-  Find me on GitHub: [aoiewruiawuer](https://github.com/aoiewruiawuer)  
+  Find me on GitHub: [adfklsj](https://github.com/adfklsj)  
 
-  E-mail me : aoieruioaero
+  E-mail me : alksdfj
