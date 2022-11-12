@@ -10,26 +10,56 @@ const answers = function() {
             type: "input",
             name: "projectTitle",
             message: "What is the project title?",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "describe",
-            message: "Describe your project: "
+            message: "Describe your project: ",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "install",
             message: "Give instructions for installation: ",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "use",
-            message: "How is thise site used?"
+            message: "How is thise site used?",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "credits",
-            message: "Who else should be credited on this site?"
+            message: "Who else should be credited on this site?",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "list",
@@ -47,27 +77,57 @@ const answers = function() {
         },
         {   type: "input",
             name: "features",
-            message: "What are some features of your site?"
+            message: "What are some features of your site?",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "tests",
-            message: "What tests have you done?"
+            message: "What tests have you done?",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "contactInfo",
-            message: "Who is the contact for the site? "
+            message: "Who is the contact for the site? ",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "gitName",
-            message: "Please enter your GitHub username: "
+            message: "Please enter your GitHub username: ",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         },
         {
             type: "input",
             name: "email",
-            message: "Please enter your email: "
+            message: "Please enter your email: ",
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("Please try again");
+                }
+                return true;
+            }
         }
     ]);
 } 
