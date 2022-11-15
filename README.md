@@ -65,8 +65,8 @@ SOFTWARE.
 
 ## Features
 
-Command line interface
-Multiple libraries used
+Command line interface  
+Multiple libraries used  
 Asychronous function(s)
 
 ## Tests
