@@ -38,8 +38,10 @@ After this information is gathered, it is used to generate a readme.md file with
 
 ## Credits
 
-https://ku.bootcampcontent.com/ku-coding-boot-camp/KU-VIRT-FSF-PT-09-2022-U-LOLC/  
-
+https://ku.bootcampcontent.com/ku-coding-boot-camp/KU-VIRT-FSF-PT-09-2022-U-LOLC/
+https://github.com/jpd61/README-generator
+https://www.james-fisher-web-developer.com/pages/readme-generator.html
+https://github.com/connietran-dev/readme-generator
 
 ## License
  
