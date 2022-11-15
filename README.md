@@ -6,8 +6,8 @@ This script has been created as a command line based tool for creating a README.
 
 ![](./media/screenshot.jpg)
 ![](./media/screenshot2.jpg)  
-[Click for demonstration video](https://fryylord.github.io/professionalREADME//media/readmegen-demomovie.mp4)
-[Link to GitHub Repo](https://github.com/fryylord/professionalREADME)
+[Click for demonstration video](https://fryylord.github.io/professionalREADME/media/readmegen-demomovie.mp4)  
+[Link to GitHub Repo](https://github.com/fryylord/professionalREADME)  
 
 - [Installation](#installation)
 - [Usage](#usage)
