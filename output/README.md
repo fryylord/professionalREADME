@@ -1,10 +1,10 @@
 
   
-![badge](https://img.shields.io/badge/license-ISC-blue)
-  # 9:48
+![badge](https://img.shields.io/badge/license-MIT-blue)
+  # Project Title
 
   ## Description  
-  9:48
+  Project Description
   
   ## Contents
   - [Description](#description)
@@ -17,27 +17,27 @@
   - [Contact](#contact)
   
   ## Installation
-  9:48
+  Instructions
   
   ## Usage
-  9:48
+  Usage
   
   ## Contributing
-  9:48
+  Other Credits
 
   ## License  
-  ISC License  
-  [Click for more Information](https://opensource.org/licenses/ISC)
+  MIT License  
+  [Click for more Information](https://choosealicense.com/licenses/mit/)
 
   ## Features
-  9:48
+  Features
   
   ## Tests
-  9:48
+  tests completed
 
   ## Questions
-  9:48  
+  Contact Name  
 
-  Find me on GitHub: [9:48](https://github.com/9:48)  
+  Find me on GitHub: [githubusername](https://github.com/githubusername)  
 
-  E-mail me : 9:48
+  E-mail me : functional e-mail
