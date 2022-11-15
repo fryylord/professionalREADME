@@ -44,7 +44,7 @@ const questions = function() {
         {
             type: "input",
             name: "use",
-            message: "How is thise site used?",
+            message: "How is this site used?",
             validate: function (answer) {
                 if (answer.length < 1) {
                     return console.log("Please try again");
