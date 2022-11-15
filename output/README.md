@@ -1,10 +1,10 @@
 
   
-![badge](https://img.shields.io/badge/license-MIT-blue)
-  # Project Title
+![badge](https://img.shields.io/badge/license-Apache-blue)
+  # demo project title
 
   ## Description  
-  Project Description
+  demo description
   
   ## Contents
   - [Description](#description)
@@ -17,27 +17,27 @@
   - [Contact](#contact)
   
   ## Installation
-  Instructions
+  demo instructions
   
   ## Usage
-  Usage
+  demo usage
   
   ## Contributing
-  Other Credits
+  demo credits
 
   ## License  
-  MIT License  
-  [Click for more Information](https://choosealicense.com/licenses/mit/)
+  Apache License  
+  [Click for more Information](https://choosealicense.com/licenses/apache-2.0/)
 
   ## Features
-  Features
+  demo features
   
   ## Tests
-  tests completed
+  demo tests
 
   ## Questions
-  Contact Name  
+  demo contact  
 
-  Find me on GitHub: [githubusername](https://github.com/githubusername)  
+  Find me on GitHub: [demogithub](https://github.com/demogithub)  
 
-  E-mail me : functional e-mail
+  E-mail me : demoemail@demo.com

@@ -4,8 +4,9 @@
 This script has been created as a command line based tool for creating a README.md file.  It takes in user input and formats it using conventions expected in a professional README file.  Upon completion the information gathered is displayed, and a new file is created.   
 
 
-![](./images/screenshot.jpg)
-![](./images/screenshot2.jpg)  
+![](./media/screenshot.jpg)
+![](./media/screenshot2.jpg)  
+[Click for demonstration video](./media/readmegen-demomovie.mp4)
 [Link to GitHub Repo](https://github.com/fryylord/professionalREADME)
 
 - [Installation](#installation)
