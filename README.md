@@ -6,7 +6,7 @@ This script has been created as a command line based tool for creating a README.
 
 ![](./images/screenshot.jpg)
 ![](./images/screenshot2.jpg)  
-[Link to Page](https://fryylord.github.io/professionalREADME/)
+[Link to GitHub Repo](https://github.com/fryylord/professionalREADME)
 
 - [Installation](#installation)
 - [Usage](#usage)
