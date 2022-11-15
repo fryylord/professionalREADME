@@ -4,7 +4,7 @@
 This script has been created as a command line based tool for creating a README.md file.  It takes in user input and formats it using conventions expected in a professional README file.  Upon completion the information gathered is displayed, and a new file is created.   
 
 
-![](./assets/images/Screenshot.jpg)
+![](./images/Screenshot.jpg)
 [Link to Page](https://fryylord.github.io/professionalREADME/)
 
 - [Installation](#installation)
@@ -14,11 +14,25 @@ This script has been created as a command line based tool for creating a README.
 
 ## Installation
 
-All you need is the index.html file, allong with the directory assets.  These should be in the parent repository directory, with assets being a child directly within the parent.
+In the command line in the root directory, type npm install allowing for the required libraries to be installed
 
 ## Usage
 
-To allow the user to enter in a desired city, get current weather information, as well as a 5 day forcast.  Searches are saved to allow for revisiting previously searched cities.       
+After running the program the user is prompted with the following requests :
+
+What is the project title?  
+Describe your project  
+Give instructions for installation  
+How is thise site used?  
+Who else should be credited on this site?  
+Chose the appropriate license for this project  
+What are some features of your site?  
+What tests have you done?  
+Who is the contact for the site?  
+Please enter your GitHub username  
+Please enter your email  
+
+After this information is gathered, it is used to generate a readme.md file within the output directory.
 
 ## Credits
 
@@ -51,7 +65,9 @@ SOFTWARE.
 
 ## Features
 
-
+Command line interface
+Multiple libraries used
+Asychronous function(s)
 
 ## Tests
 
